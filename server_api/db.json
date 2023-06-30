@@ -1,0 +1,88 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "sree",
+      "email": "sree@gmail.com",
+      "phone": "9988776655"
+    },
+    {
+      "id": "4",
+      "name": "rk",
+      "email": "rk@gmail.com",
+      "phone": "88774423344"
+    },
+    {
+      "id": "9",
+      "name": "latha",
+      "email": "latha@gmail.com",
+      "phone": "9876586432"
+    },
+    {
+      "id": "7",
+      "name": "gh",
+      "email": "gh@gmailcom",
+      "phone": "234567"
+    },
+    {
+      "id": "8",
+      "name": "arjun",
+      "email": "arjun999@gmail.com",
+      "phone": "098765"
+    },
+    {
+      "id": "77",
+      "name": "AG",
+      "email": "ag@gmail.com",
+      "phone": "098762345678"
+    },
+    {
+      "id": "34",
+      "name": "gh",
+      "email": "gh@gmailcom",
+      "phone": "234567"
+    },
+    {
+      "id": "87",
+      "name": "kj",
+      "email": "kj@gmail.com",
+      "phone": "9876543"
+    },
+    {
+      "id": "56",
+      "name": "pk",
+      "email": "pk@gmail.com",
+      "phone": "98765"
+    },
+    {
+      "id": "55",
+      "name": "gouthami",
+      "email": "pallagouthami55@gmail.com",
+      "phone": "+12001550224"
+    },
+    {
+      "id": "6789",
+      "name": "yu",
+      "email": "yu@gmail.com",
+      "phone": "23456789"
+    },
+    {
+      "id": "567",
+      "name": "you",
+      "email": "you@gmail.com",
+      "phone": "345678"
+    },
+    {
+      "id": "ft7nUBw",
+      "name": "AS",
+      "email": "pallagouthami55@gmail.com",
+      "phone": "+12001550224"
+    },
+    {
+      "id": "876",
+      "name": "AS",
+      "email": "as@gmail.com",
+      "phone": "3456789"
+    }
+  ]
+}
